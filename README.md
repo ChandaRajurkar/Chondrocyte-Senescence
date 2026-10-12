@@ -52,4 +52,4 @@ python generate_cellpose_qc_figure.py
 ---
 
 ## Citation & DOI
-If you use this code or dataset in your research, please cite our manuscript and the archived Zenodo repository (DOI: `10.5281/zenodo.XXXXXXX`).
+If you use this code or dataset in your research, please cite our manuscript and the archived Zenodo repository (DOI: `10.5281/zenodo.21769812`).
