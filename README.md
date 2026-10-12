@@ -1,4 +1,4 @@
-# Leakage-Controlled Multimodal Fusion (SenesFuseNet) and Attention-Based Multiple-Instance Learning (Attention-MIL) for Chondrocyte Senescence Quantification
+# Leakage-Controlled Multimodal Fusion and Attention-Based Multiple-Instance Learning for Automated Quantification of Articular Chondrocyte Senescence
 
 This repository provides the official source code, evaluation pipeline, and benchmark metrics for automated SA-β-gal chondrocyte senescence classification.
 
